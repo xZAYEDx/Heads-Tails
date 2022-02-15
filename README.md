@@ -20,15 +20,16 @@
 
 - Desktop viewing
 
+![image](https://user-images.githubusercontent.com/46198029/154119521-73ca3d3d-22a8-482e-97af-1edf8cb1f803.png)
 
 
 - Mobile view
 
-
+![image](https://user-images.githubusercontent.com/46198029/154119629-443e4f68-51d2-498a-879b-ab30c7974e5a.png)
 
 ### Links
 
-- Live Site URL: [Heads & Tales](https://xzayedx.github.io/profile-card-component-main/)
+- Live Site URL: [Heads & Tales](https://xzayedx.github.io/Heads-Tails/)
 
 ## My process
 
