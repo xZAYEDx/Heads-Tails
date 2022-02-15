@@ -1,0 +1,54 @@
+body {
+    background-color: rgba(255, 228, 196, 0.5);
+}
+
+h1 {
+    text-align: center;
+    font: 3.5em helvetica;
+    position: relative;
+    color: rgb(4, 54, 38);
+}
+
+.button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.button>button {
+    text-align: center;
+    max-width: 50%;
+    padding: 30px;
+    cursor: pointer;
+    background-color: coral;
+    border: 1px solid;
+    font: 1.3em arial;
+    margin: 1rem;
+    text-transform: uppercase;
+}
+
+#pic {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+}
+
+
+/*****************************************/
+
+
+/* RESPONSIVE */
+
+@media (max-width:600px) {
+    h1 {
+        font-size: 4em;
+    }
+    .button {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
