@@ -29,7 +29,7 @@
 
 ### Links
 
-- Live Site URL: [Heads & Tales](https://xzayedx.github.io/Heads-Tails/)
+- Live Site URL: [Heads & Tales]()
 
 ## My process
 
