@@ -26,11 +26,11 @@
 - Mobile view
 
 ![image](https://user-images.githubusercontent.com/46198029/154119629-443e4f68-51d2-498a-879b-ab30c7974e5a.png)
-
+<!--
 ### Links
 
 - Live Site URL: [Heads & Tales]()
-
+--> 
 ## My process
 
 ### Built with
